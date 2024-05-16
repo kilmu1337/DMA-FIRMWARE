@@ -37,7 +37,7 @@ Many people make mistakes here because they don't know what the correct format s
 
 As for the script for converting formats, if needed, I will provide it in future updates.
 
-![img](https://cdn.discordapp.com/attachments/1213863138122793000/1216235602186473472/image.png?ex=6645862c&is=664434ac&hm=ea8ca704d47517830efb13a5be9105aaf9f5aefcc43c49c34f047093b8be3815&=)
+![img](https://github.com/kilmu1337/DMA-FIRMWARE/blob/main/image.png)
 
 #### 6.After all are completed, the bitstream can be generated.
 
